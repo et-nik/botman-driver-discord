@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Require the driver into your botman project `composer require jabirchall/botman-driver-discord`
+Require the driver into your botman project `composer require knik/botman-driver-discord`
 
 Example
 ```php
